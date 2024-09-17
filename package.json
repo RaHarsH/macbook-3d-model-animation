@@ -12,6 +12,7 @@
   "dependencies": {
     "@react-three/drei": "^9.112.0",
     "@react-three/fiber": "^8.17.7",
+    "lenis": "^1.1.13",
     "macbook-3d-sheriyans": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
