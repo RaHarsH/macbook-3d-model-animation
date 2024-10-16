@@ -21,7 +21,6 @@ This project was made possible with the support and guidance from:
 - **Sheriyans Coding School**
 - **Harsh Vandana Sharma (Harsh Bhaiya)**
 
-Their resources and mentorship played a crucial role in bringing this project to life.
+Their resources and mentorship played a crucial role in bringing this project to life
 
----
-
+---life. 
